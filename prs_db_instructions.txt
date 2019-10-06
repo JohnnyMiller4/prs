@@ -1,0 +1,11 @@
+PRS DB Instructions
+=====================
+- [DONE] Create a sql script for your PRS db:  prs_db_create.sql
+- [DONE] You can save it in your sql-instruction folder
+- [DONE] DB name should be prs
+- Create the db to the spec provided by your instructor, PRS Data Modelv04
+- [DONE] Create some data:  2 users, 2pdts, and 1 vendor
+- Push up your sql-instruction repo once done
+- Send instructor a Slack message with the link to your repo for review
+* You should practice writing sql statements against this db once done...
+  most complicated would be an inner join between vendor and product
